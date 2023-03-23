@@ -32,7 +32,7 @@ def send_mail():
 MY_LAT = 39.916899
 MY_LON = 32.778773
 my_gmail = "testcodefaruk@gmail.com"
-password = "waysjuexxbyzsfjt"
+password = "************"
 
 
 # iss data
