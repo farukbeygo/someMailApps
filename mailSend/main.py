@@ -6,7 +6,7 @@ with open("quotes.txt") as quotes:
     lines_data = quotes.readlines()
 
 my_gmail = "testcodefaruk@gmail.com"
-password = "waysjuexxbyzsfjt"
+password = "************" # your pass
 
 now = dt.datetime.now()
 hour = now.hour
