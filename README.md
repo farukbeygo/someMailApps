@@ -16,6 +16,7 @@ Before running any of the applications, make sure you have the following:
 ### Installation
 
 1. Clone the repository to your local machine.
+2. Open one of the directory, and run main.py in a server or in your local machine.
 
 ### Usage
 
